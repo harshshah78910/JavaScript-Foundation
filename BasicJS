@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		Java Script Foundation
+	</title>
+</head>
+<body>
+
+<h1>This is Java Script Foundation Pratice</h1>
+
+<script type="text/javascript" src="script.js">
+	console.log("Hello World");
+</script>
+
+</body>
+</html>
